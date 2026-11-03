@@ -6,3 +6,7 @@ Learning Java and Python
 Interested in web development
 
 Goal: Become a Software Engineer
+
+## Projects
+
+I am building an Event Management System using HTML, CSS, JavaScript and Supabase.
