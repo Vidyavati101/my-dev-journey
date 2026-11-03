@@ -4,3 +4,5 @@ Hi, I am a CSE student at REVA University. I am learning programming and softwar
 Learning Java and Python
 
 Interested in web development
+
+Goal: Become a Software Engineer
